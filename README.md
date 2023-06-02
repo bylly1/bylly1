@@ -11,8 +11,8 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bylly1)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/bylly1)
 
 
 ### Technologies & Frameworks
@@ -30,8 +30,8 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bylly1)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/bylly1)
 
 <!--
 
