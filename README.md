@@ -21,8 +21,8 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/bylly1)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/bylly1)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/bylly1)
-[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel)]https://github.com/bylly1
-[![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)]https://github.com/bylly1
+[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel)](https://github.com/bylly1)
+[![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/bylly1)
 [![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=express)](https://github.com/bylly1)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/bylly1)
 [![Material UI](https://img.shields.io/badge/MaterialUI-black?style=for-the-badge&logo=mui)](https://github.com/bylly1)
