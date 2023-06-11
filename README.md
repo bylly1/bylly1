@@ -3,11 +3,9 @@
 I am a full-stack developer 
 
 ### Contact
-<p align="center">
     <a href="https://www.linkedin.com/in/florin-d">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-</p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bylly1)
