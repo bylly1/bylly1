@@ -1,19 +1,10 @@
-## About me👋
+<h1 align="center">Hi, I'm Laura Abro</h1>
+<h3 align="center">A full stack developer</h3>
 
-I am a full-stack developer 
+## Connect with me:
+<a href="https://www.linkedin.com/florin-d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrocadabro" height="30" width="40" /></a>
 
-### Contact
-<p>
-    <a href="https://www.linkedin.com/in/florin-d">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-<p>
     
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/bylly1)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/bylly1)
-
-
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/bylly1)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/bylly1)
@@ -28,15 +19,9 @@ I am a full-stack developer
 [![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/bylly1)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com)
 
+### Tools:
+<span><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></span>
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bylly1)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/bylly1)
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
