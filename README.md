@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Laura Abro</h1>
+<h1 align="center">Hi, I'm Florin Duica</h1>
 <h3 align="center">A full stack developer</h3>
 
 ## Connect with me:
