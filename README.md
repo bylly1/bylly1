@@ -18,6 +18,7 @@
 [![Material UI](https://img.shields.io/badge/MaterialUI-black?style=for-the-badge&logo=mui)](https://github.com/bylly1)
 [![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/bylly1)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com)
+[![Elasticsearch](https://img.shields.io/badge/elasticsearch-black?style=for-the-badge&logo=elasticsearch)](https://github.com)
 
 ### Tools:
 <span><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></span>
