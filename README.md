@@ -31,10 +31,6 @@ These are my current tehnolgies that I work with:
 - lexicaljS
 ```
 
-
-### Tools:
-<span><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></span>
-
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bylly1)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/bylly1)
