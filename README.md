@@ -36,4 +36,4 @@ These are my current tehnolgies that I work with:
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/bylly1)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/florin-d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florin-d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florin-duica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florin-d" height="30" width="40" /></a>
