@@ -3,7 +3,7 @@
 
 I'm a passionate self-taught full stack web developer from Romania, interested in technology and eager to learn new things
 
-These are my current tehnolgies that I work with:
+These are my current tehnologies that I work with:
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/bylly1)
@@ -28,7 +28,7 @@ These are my current tehnolgies that I work with:
 ### Currently learning
 ```yaml
 - kubernetes
-- lexicaljS
+- lexicalJs
 ```
 
 ### OS
