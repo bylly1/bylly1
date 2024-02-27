@@ -6,11 +6,11 @@ I'm a passionate self-taught full stack web developer from Romania, interested i
 These are my current tehnologies that I work with:
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/bylly1)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/bylly1)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/bylly1)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/bylly1)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/bylly1)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://docs.docker.com/)
 [![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel)](https://nextjs.org/)
 [![Expo CLI](https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo)](https://expo.dev/)
 [![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=express)](https://expressjs.com/)
